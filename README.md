@@ -17,7 +17,7 @@ Focused on agentic systems, multimodal learning, retrieval-augmented generation,
 - Building GenAI and multimodal AI systems for industrial applications  
 - Working with LLMs, VLLMs, RAG pipelines, and AI agents  
 - Experienced in reinforcement learning, computer vision, and robotics  
-- Research-oriented engineering with focus on deployment and real-world systems  
+- Research-oriented engineering focused on deployment and real-world systems  
 
 ---
 
@@ -25,24 +25,22 @@ Focused on agentic systems, multimodal learning, retrieval-augmented generation,
 
 **AI Developer** — Predictores.ai  
 **AI Engineer** — EU Horizon (SHEREC) / LUT University  
-**Data Scientist** — Allway 
-**Computer vision engineer** — Medicolab
+**Data Scientist** — Allway  
+**Computer Vision Engineer** — Medicolab  
 
 ---
 
 ### Research
 
-- Agentic RAG Systems  
-- Computer Vision- Diffusion models 
-- Reinforcement Learning  
- 
+- Agentic RAG systems  
+- Computer vision and diffusion models  
+- Reinforcement learning  
 
 ---
 
-
 ### Stack
 
-Python • AWS • Docker •  K8s • Langgraph-smith • SQL • Databricks • Snowflake • Vector Databases  
+Python • AWS • Docker • Kubernetes • LangGraph • LangSmith • SQL • Databricks • Snowflake • Vector Databases  
 
 ---
 
