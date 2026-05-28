@@ -21,15 +21,6 @@ Focused on agentic systems, multimodal learning, retrieval-augmented generation,
 
 ---
 
-### Experience
-
-**AI Developer** — Predictores.ai  
-**AI Engineer** — EU Horizon (SHEREC) / LUT University  
-**Data Scientist** — Allway  
-**Computer Vision Engineer** — Medicolab  
-
----
-
 ### Research
 
 - Agentic RAG systems  
