@@ -31,7 +31,7 @@ Focused on agentic systems, multimodal learning, retrieval-augmented generation,
 
 ### Stack
 
-Python • AWS • Docker • Kubernetes • LangGraph • LangSmith • SQL • Databricks • Snowflake • Vector Databases  
+Python • SQL • Databricks • Snowflake • AWS • DBT • Docker • Kubernetes • LangGraph • LangSmith • Vector Databases  
 
 ---
 
