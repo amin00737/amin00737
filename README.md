@@ -1,7 +1,7 @@
 <h1 align="center">Amin Mavaddat</h1>
 
 <p align="center">
-AI Engineer • Generative AI • Multimodal Systems • Industrial AI
+Multimodal Systems • Industrial AI • Diffusion models • DRL
 </p>
 
 <br>
